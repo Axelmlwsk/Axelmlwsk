@@ -12,11 +12,11 @@ const axel = {
 
 }
 ```
-<h2>Some personal Projects 🌦</h2>
+<h2>Some personal Projects 👋</h2>
 
 <h3>Expense tracker</h3>
 
--[Repository](https://github.com/Axelmlwsk/expense-tracker)
+[Repository](https://github.com/Axelmlwsk/expense-tracker)
 
 A simple application to keep up to date with expenses and income.
 
@@ -26,7 +26,7 @@ React, Redux, CSS.
 
 <h3>Todo App</h3>
 
--[Repository](https://github.com/Axelmlwsk/todo-app)
+[Repository](https://github.com/Axelmlwsk/todo-app)
 
 A Fullstack todo application, with the possibility to edit, remove tasks, and group them in folders.
 
@@ -37,7 +37,7 @@ PostgreSQL, TypeORM, NestJS, React, CSS.
 
 <h3>Countries and Tourist Activities</h3>
 
--[Repository](https://github.com/Axelmlwsk/individual-pi-henry)
+[Repository](https://github.com/Axelmlwsk/individual-pi-henry)
 
 A Fullstack todo application, for the individual project stage of Henry's bootcamp. You can sort the countries by alphabetical order, population, and search by name. You can also create tourist activities with their respective details and assign them to countries.
 
