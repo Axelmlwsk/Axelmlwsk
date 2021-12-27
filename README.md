@@ -14,7 +14,7 @@ const axel = {
 ```
 <h2>Some personal Projects 👋</h2>
 
-<h3>Expense tracker</h3>
+<h1>Expense tracker</h1>
 
 [Repository](https://github.com/Axelmlwsk/expense-tracker)
 
@@ -35,7 +35,7 @@ A Fullstack todo application, with the possibility to edit, remove tasks, and gr
 PostgreSQL, TypeORM, NestJS, React, CSS. 
 
 
-<h3>Countries and Tourist Activities</h3>
+<h1>Countries and Tourist Activities</h1>
 
 [Repository](https://github.com/Axelmlwsk/individual-pi-henry)
 
