@@ -12,7 +12,7 @@ const axel = {
 
 }
 ```
-<h2>Some personal Projects 👋</h2>
+<h3>Some personal Projects 👋</h3>
 
 <h1>Expense tracker</h1>
 
