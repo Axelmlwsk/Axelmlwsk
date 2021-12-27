@@ -11,7 +11,7 @@ const axel = {
   tools: [React, Redux, Node, Express, Mongoose, Sequelize, PostgreSQL, MongoDb],
 
 }
-
+```
 <h2>Some personal Projects 🌦</h2>
 
 <h3>Expense tracker</h3>
