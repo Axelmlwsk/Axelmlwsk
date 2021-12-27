@@ -24,7 +24,7 @@ A simple application to keep up to date with expenses and income.
 
 React, Redux, CSS.
 
-<h3>Todo App</h3>
+<h1>Todo App</h1>
 
 [Repository](https://github.com/Axelmlwsk/todo-app)
 
